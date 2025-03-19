@@ -1,0 +1,18 @@
+
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background-color: white;
+}
+
+footer {
+    text-align: center;
+    border-top: 1px solid black;
+}
+
+/* Styles spécifiques pour les images dans les hobbies */
+#meme img, #livre img, #recipe img, #manga img {
+    width: 100%;
+    padding: 10px;
+}
